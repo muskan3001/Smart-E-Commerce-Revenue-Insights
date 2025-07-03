@@ -79,8 +79,7 @@ _Categories like 3, 5, and 10 consistently show high return rates._
 | `Return_Rate`        | Ratio of returned orders |
 | `Category_ID`        | Categorical product grouping |
 
-**📌 Source:** Kaggle – *E-Commerce Product Performance Dataset*  
-**📅 Time Range:** Snapshot data
+**📌 Source:** Kaggle – [*E-Commerce Product Performance Dataset*](https://www.kaggle.com/datasets/efeyldz/e-commerce-product-performance-dataset)  
 
 ---
 
@@ -94,13 +93,31 @@ _Categories like 3, 5, and 10 consistently show high return rates._
 
 ---
 
-## 🧾 Project Structure
+## 📌 Key Takeaways
 
-```bash
-Smart-Ecommerce-Revenue-Insights/
-├── E_commerce.ipynb                # Main analysis notebook
-├── README.md                       # This documentation file
-└── images/
-    ├── Unknown-2.png               # Return vs Discount plot
-    ├── Unknown-5.png               # Rating by Stock Availability
-    └── Unknown-6.png               # Return Rate by Category
+- 📉 **Heavy discounts** raise return risks if not paired with product quality  
+- 📦 **High-return categories** require targeted pricing and quality strategy  
+- ⭐ **High-rated products** with low returns should be prioritized for restocking  
+- 🔍 **Customer feedback loops** are critical to inventory and sales planning  
+
+---
+
+## 🔚 Conclusion of the Analysis
+
+This e-commerce analysis demonstrates how **data-driven insights** can transform business outcomes by optimizing pricing strategies, managing inventory efficiently, and improving customer satisfaction. The key findings show that:
+
+- 📊 Smart discounting, when aligned with quality, reduces return rates  
+- 📦 Inventory decisions must be informed by both demand and performance metrics  
+- ⭐ Ratings and reviews offer powerful signals for future product success
+
+By leveraging these insights, e-commerce businesses can significantly reduce return-related losses, increase profit margins, and deliver a better customer experience.
+
+---
+
+## 📣 Reach Out
+
+Thanks for exploring this project! I’d love to connect and discuss opportunities in data, analytics, and product insights.
+
+📧 **Email:** muskan.gulati3029@gmail.com  
+🔗 **[LinkedIn](https://www.linkedin.com/in/muskan-gulati30/)**
+---
