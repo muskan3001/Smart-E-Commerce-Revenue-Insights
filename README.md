@@ -45,12 +45,6 @@ _Categories like 3, 5, and 10 consistently show high return rates._
 
 ---
 
-### 📦 Product Ratings by Stock Availability  
-_Even poorly rated products remain in stock, signaling overstocking or poor demand forecasting._
-
-![Rating by Stock](images/Unknown-5.png)
-
----
 
 ## 🧠 Business Questions Answered
 
