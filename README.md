@@ -118,6 +118,5 @@ By leveraging these insights, e-commerce businesses can significantly reduce ret
 
 Thanks for exploring this project! I’d love to connect and discuss opportunities in data, analytics, and product insights.
 
-📧 **Email:** muskan.gulati3029@gmail.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/muskan-gulati30/)**
----
+<sub>📧 Email: muskan.gulati3029@gmail.com  
+🔗 <a href="https://www.linkedin.com/in/muskan-gulati30/">LinkedIn</a></sub>
